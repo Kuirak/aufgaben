@@ -21,4 +21,11 @@
 
 ### Pro Abgabe 
 
+- einen Ordner pro Abgabe anlegen
+- fleißig commiten & pushen
+- wenn ihr fertig seid: 
+  - `git commit -m "fertig"` 
+  - `git push`
+
+
 

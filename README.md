@@ -12,4 +12,13 @@
 
 - Abgabe 14.05.
 
+## Ablauf 
+
+### Einmaliges Setup
+
+- [Edu-Account einrichten](https://github.com/hsa-nodejs-workshop/aufgaben/issues/1) 
+- [Abagen-Repository anlegen](https://github.com/hsa-nodejs-workshop/aufgaben/issues/2)
+- 
+### Pro Abgabe 
+
 

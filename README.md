@@ -17,7 +17,7 @@
 ### Einmaliges Setup
 
 - [Edu-Account einrichten](https://github.com/hsa-nodejs-workshop/aufgaben/issues/1) 
-- [Abagen-Repository anlegen](https://github.com/hsa-nodejs-workshop/aufgaben/issues/2)
+- [Abgaben-Repository anlegen](https://github.com/hsa-nodejs-workshop/aufgaben/issues/2)
 
 ### Pro Abgabe 
 

@@ -2,7 +2,7 @@
 
 ### 1. JavaScript Basics
 
-- "Monster" [Monster] (https://github.com/hsa-nodejs-workshop/aufgaben-dev/tree/master/javascript-wtf)
+- "Monster" [Monster] (https://github.com/hsa-nodejs-workshop/aufgaben/tree/master/javascript-wtf)
 - Abgabe 23.04.
 
 ### 2. Node.js Basics

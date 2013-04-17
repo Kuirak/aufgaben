@@ -117,9 +117,6 @@ Referee.prototype.startFight = function() {
         }
 
         self._fighters[attacking].attack(self._fighters[defending]);
-
-        self._fighters[attacking].rest();
-        self._fighters[defending].rest();
     }
 };
 

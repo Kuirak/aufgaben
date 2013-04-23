@@ -16,7 +16,7 @@ Nun, da die Monster ihre ersten Kämpfe austragen, möchten wir das ganze etwas 
 
 Außerdem sollte jede Klasse immer ihre eigene Datei haben. Die Ordnerstruktur sieht also am Ende folgendermaßen aus:
 
-![Structure](https://github.com/hsa-nodejs-workshop/aufgaben/raw/master/aufgabe-2/structure.png)
+![Structure](https://github.com/hsa-nodejs-workshop/aufgaben/raw/master/nodejs-basics/structure.png)
 
 - **/monsters.js** ist die Datei, die ihr mit `node monsters.js` ausführen könnt.
 

@@ -2,12 +2,13 @@
 
 ### 1. JavaScript Basics
 
-- Aufgabenstellung: [Monster] (https://github.com/hsa-nodejs-workshop/aufgaben/tree/master/javascript-wtf)
+- [Aufgabenstellung](https://github.com/hsa-nodejs-workshop/aufgaben/tree/master/javascript-wtf)
 - Abgabe 23.04.
 
 ### 2. Node.js Basics
 
-- Abgabe 30.04.
+- [Aufgabenstellung](https://github.com/hsa-nodejs-workshop/aufgaben/tree/master/nodejs-basics)
+- Abgabe 30.04
 
 ### 3. Node.js - Best Practices
 

@@ -13,7 +13,7 @@
 ### 3. Node.js - Web-Hacking
 
 - [Aufgabenstellung](https://github.com/hsa-nodejs-workshop/aufgaben/tree/master/web-hacking)
-- Abgabe 14.05.
+- Abgabe 07.05.
 
 ## Ablauf 
 

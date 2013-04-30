@@ -10,8 +10,9 @@
 - [Aufgabenstellung](https://github.com/hsa-nodejs-workshop/aufgaben/tree/master/nodejs-basics)
 - Abgabe 30.04
 
-### 3. Node.js - Best Practices
+### 3. Node.js - Web-Hacking
 
+- [Aufgabenstellung](https://github.com/hsa-nodejs-workshop/aufgaben/tree/master/web-hacking)
 - Abgabe 14.05.
 
 ## Ablauf 

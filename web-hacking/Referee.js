@@ -111,7 +111,7 @@ Referee.prototype.startFight = function() {
             attacking = "monster1";
         }
 
-        if (cnt++ > self.rounds) {
+        if (++cnt > self.rounds) {
             self.emit("end", "DRAW! Both monsters seem to be very strong.");
             clearInterval(roundInterval);
             return;
